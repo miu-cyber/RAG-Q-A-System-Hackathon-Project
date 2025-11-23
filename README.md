@@ -4,7 +4,7 @@ User → SpoonOS Agent → (Query transform) → VectorDB
                                 SpoonAI LLM
                                    ↓
                               Final Answer
-
+```
                               
 📁 Project File Structure
 
@@ -36,4 +36,4 @@ User → SpoonOS Agent → (Query transform) → VectorDB
 │
 └── utils/                        # Utility scripts
     └── (optional helpers)
-
+```
