@@ -1,4 +1,4 @@
-逻辑图
+logic：
 User → SpoonOS Agent → (Query transform) → VectorDB 
                                    ↓
                                 SpoonAI LLM
