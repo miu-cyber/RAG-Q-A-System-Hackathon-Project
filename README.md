@@ -4,8 +4,7 @@ User → SpoonOS Agent → (Query transform) → VectorDB
                                 SpoonAI LLM
                                    ↓
                               Final Answer
-```
-                              
+```                            
 📁 Project File Structure
 
 ├── README.md                     # Project overview, setup, usage
