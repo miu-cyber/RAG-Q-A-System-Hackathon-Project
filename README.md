@@ -25,10 +25,10 @@ User → SpoonOS Agent → (Query transform) → VectorDB
 │   ├── product_info.txt
 │   └── tech_doc.md
 │
-├── embeddings/                   # (Optional) Cached embeddings for performance
+├── embeddings/                   # Cached embeddings for performance
 │   └── *.pkl
 │
-├── vectorstore/                  # (Optional) Local Chroma / Milvus index data
+├── vectorstore/                  # Local Chroma / Milvus index data
 │   └── index/
 │
 ├── assets/                       # Images / static resources
